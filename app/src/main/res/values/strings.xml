@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Mart9</string>
+    <string name="refresh">Refresh</string>
+    <string name="price_with_currency">₹%.2f</string>
+    <string name="price_with_currency_string">₹%s</string>
+    <string name="total_price_with_currency_string">Total: ₹%s</string>
+    <string name="lbl_view_cart">VIEW CART</string>
+    <string name="cart_info_bar_data">%d Items | ₹%s</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="title_activity_transactions">Transactions</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_checkout">CHECKOUT (%s)</string>
+    <string name="lbl_item_price_quantity">%s x %d</string>
+    <string name="lbl_your_cart">Your Cart</string>
+    <string name="title_activity_paytm_activity">Order Status</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="msg_enter_credentials">Enter email and username!</string>
+    <string name="logout">Logout</string>
+    <string name="hint_name">Fullname</string>
+    <string name="register">Register</string>
+    <string name="msg_fill_the_form">Please fill the form!</string>
+    <string name="lbl_create_account">Don\'t have an account? Sign Up here.</string>
+    <string name="lbl_existing_account">Already have an account? Login here</string>
+    <string name="msg_unknown">Unknown error occurred! Please try again. Check Android Studio\'s LogCat for detailed error report.</string>
+    <string name="error">Error</string>
+    <string name="msg_preparing_order">Preparing your order</string>
+    <string name="msg_fetching_checksum">Getting checksum value from the server</string>
+    <string name="msg_redirecting_to_paytm">Redirecting to PayTM gateway</string>
+    <string name="msg_verifying_status">Verifying transaction status on server</string>
+    <string name="msg_order_placed_successfully">Your order placed successfully!</string>
+    <string name="thank_you">THANK YOU</string>
+    <string name="btn_check_order">CHECK ORDERS</string>
+    <string name="title_preparing_order">Preparing Order</string>
+    <string name="msg_order_placed_failed">Order couldn\'t be placed. Plase contact support.</string>
+    <string name="order_failed">ORDER FAILED</string>
+    <string name="activity_title_orders">My Orders</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="order_id">Order Id #%d</string>
+    <string name="transaction_failed">Transaction Failed</string>
+    <string name="transactions">NO DATA</string>
+</resources>
